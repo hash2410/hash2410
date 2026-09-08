@@ -1,5 +1,5 @@
 # About Me:
-Hey there! I'm Hashsham Ali Ahmed<br><br>I'm an undergraduate student majoring in Artificial Intelligence at KFUEIT, I have also self taught myself in MERN stack development along with University. I have more interest in fullstack development than my Uni degree and have a curious cat inside me for websites that are fast, intuitive, and solve real world problems.
+Hey there! I'm Hashsham Ali Ahmed<br><br>I'm an undergraduate student majoring in Artificial Intelligence at KFUEIT, I have also self taught myself in MERN stack development along with University. I have a strong apetite for websites that are fast, intuitive, and solve real world problems.
 
 
 ## Socials:
